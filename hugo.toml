@@ -16,7 +16,7 @@ pluralizelisttitles = false   # removes the automatically appended "s" on sideba
 [params]
     brand = "Christopher Baita"                      # name of your site - appears in the sidebar
     brand_image = "/pfp.png"    # path to the image shown in the sidebar
-    description = "Software Engineering | Cyber Security" # Used as default meta description if not specified in front matter
+    description = "Software Developer | Cyber Specialist" # Used as default meta description if not specified in front matter
     dark_mode = true                      # optional - defaults to false
     favicon = "favicon.ico"             # path to favicon (defaults to favicon.png)
 
