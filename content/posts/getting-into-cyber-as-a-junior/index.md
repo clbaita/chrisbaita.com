@@ -2,11 +2,6 @@
 title: "Getting Into Cyber as a Junior"
 date: 2022-03-30T09:10:07+11:00
 draft: false
-toc: false
-images:
-tags:
-  - cyber security
-  - junior
 ---
 
 Recently I was fortunate enough to start a position as a junior security consultant with [Galah Cyber](https://www.galahcyber.com.au/). Galah is focused on Application Security which allows me to combine my passion for software engineering with my passion for cyber security, absolutely perfect!
