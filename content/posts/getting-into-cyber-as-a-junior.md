@@ -2,8 +2,6 @@
 title: "Getting Into Cyber as a Junior"
 date: 2022-03-30T09:10:07+11:00
 draft: false
-toc: false
-images:
 tags:
   - cyber security
   - junior
@@ -14,8 +12,6 @@ Recently I was fortunate enough to start a position as a junior security consult
 If you were like me you might have found your passion in cyber security too, but getting started was always a bit of a grey area. I always wondered where cyber could take me and what I could contribute.
 
 There isn’t a real set path to get into cyber security but hopefully sharing my journey can give an idea to those who were in my position. Here is what I did and my advice for anyone who might be interested.
-
- 
 
 # Explore the field
 After I knew that cybersecurity was the field I wanted to pursue, a big question arose… 
@@ -38,8 +34,6 @@ I went to the [Newcastle Cyber Security Group's](https://www.meetup.com/Newcastl
 
 Knowing that I wanted to pursue that field was the next step forward, you feel much more confident knowing so.
 
- 
-
 # Keep security in mind when programming
 I still love software development but oversights in development is where a lot of security flaws can come from. So I try to keep security in my mind while developing software. The last thing I want is for someone to be compromised from a mistake or oversight on my part.
 
@@ -56,8 +50,6 @@ The cheat sheet for a [forgotten password reset](https://cheatsheetseries.owasp.
 There are many other cheat sheets to help with a lot of common dev tasks such as password storage along with cheat sheets to help prevent vulnerabilities such as [XSS](https://cheatsheetseries.owasp.org/cheatsheets/Cross_Site_Scripting_Prevention_Cheat_Sheet.html). 
 
 If you don't understand some of the concepts on the page then go down the rabbit hole and learn! You will be surprised just how much information you pick up. 
-
- 
 
 # Learning 
 Take a proactive approach in learning the things you find interesting.
@@ -80,8 +72,6 @@ Working a year as a software developer, both through my work integrated learning
 
 Other things that help are general knowledge of the tech world, even skills such as Linux environments, networking protocols, certain libraries / frameworks, will not go astray. 
 
- 
-
 # Seek out opportunities
 Be active in the awesome community around Newcastle.
 
@@ -90,8 +80,6 @@ Help people out and learn from them where you can.
 Network and build relationships with people, let them know you truly care about the field. Newcastle is a close community with some incredible talent, it is good to meet and talk to people.
 
 If you are going to be performing something as important as security, people need to know they can trust you, show that to them.
-
- 
 
 # Summing up
 Thank you for reading and I hope I could help out some people who were trying to find their footing like I was.
